@@ -97,7 +97,7 @@ def main():
                     'scene': preset_name,
                     'settings': infos
                 }
-                with open(f'device-{dev.name}-{dev.id}-{preset_name}.json', "w") as outfile:
+                with open(f'device-{dev.name}-{dev.id}-setting-{preset_name}.json', "w") as outfile:
                     outfile.write(json.dumps(preset, indent=4))
                 
     print('---------------------------')
