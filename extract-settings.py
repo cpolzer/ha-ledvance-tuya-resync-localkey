@@ -46,6 +46,7 @@ def get_login() -> Tuple[str, str]:
 
 def main():
     username, password = get_login()
+
     scene_name = get_scene_name()
 
     api = TuyaAPI(username, password)
@@ -60,13 +61,6 @@ def main():
     print('---------------------------')
     for group in api.groups():
         for dev in api.devices(group['groupId']):
-            print(f'device name:\t{dev.name}')
-            print(f'device id:\t{dev.id}')
-            print(f'local key:\t{dev.localKey}')
-            print(f'Schema:')
-            for schema in dev.schema:
-                print(f'\n{json.dumps(schema)}')
-            print(f'Scene: {scene_name}')
             infos = []
             for dps in dev.dps:
                     info = {
