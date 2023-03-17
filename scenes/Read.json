@@ -1,0 +1,70 @@
+{
+    "scene": "read-Scene",
+    "settings": [
+        {
+            "id": "22",
+            "friendlyName": "bright_value",
+            "value": 1000
+        },
+        {
+            "id": "33",
+            "friendlyName": "power_memory",
+            "value": "AAEAAAAAAAAD6AAA"
+        },
+        {
+            "id": "23",
+            "friendlyName": "temp_value",
+            "value": 1000
+        },
+        {
+            "id": "34",
+            "friendlyName": "do_not_disturb",
+            "value": false
+        },
+        {
+            "id": "25",
+            "friendlyName": "scene_data",
+            "value": "010e0d0000000000000003e801f4"
+        },
+        {
+            "id": "26",
+            "friendlyName": "countdown",
+            "value": 0
+        },
+        {
+            "id": "28",
+            "friendlyName": "control_data",
+            "value": ""
+        },
+        {
+            "id": "30",
+            "friendlyName": "rhythm_mode",
+            "value": "AAAAAAA="
+        },
+        {
+            "id": "41",
+            "friendlyName": "remote_switch",
+            "value": true
+        },
+        {
+            "id": "20",
+            "friendlyName": "switch_led",
+            "value": true
+        },
+        {
+            "id": "31",
+            "friendlyName": "sleep_mode",
+            "value": "AAA="
+        },
+        {
+            "id": "21",
+            "friendlyName": "work_mode",
+            "value": "scene"
+        },
+        {
+            "id": "32",
+            "friendlyName": "wakeup_mode",
+            "value": "AAA="
+        }
+    ]
+}
