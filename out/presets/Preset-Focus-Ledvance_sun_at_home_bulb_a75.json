@@ -1,5 +1,7 @@
 {
-    "scene": "Eyes",
+    "preset": "Focus",
+    "device_name": "Desk bulb",
+    "device_id": "bf....222",
     "settings": [
         {
             "id": "22",
@@ -14,7 +16,7 @@
         {
             "id": "23",
             "friendlyName": "temp_value",
-            "value": 178
+            "value": 778
         },
         {
             "id": "34",

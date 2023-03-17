@@ -1,5 +1,7 @@
 {
-    "scene": "Computer",
+    "scene": "LeisureTime-Scene",
+    "device_name": "Desk bulb",
+    "device_id": "bf....222",
     "settings": [
         {
             "id": "22",
@@ -14,7 +16,7 @@
         {
             "id": "23",
             "friendlyName": "temp_value",
-            "value": 44
+            "value": 1000
         },
         {
             "id": "34",
@@ -24,7 +26,7 @@
         {
             "id": "25",
             "friendlyName": "scene_data",
-            "value": "000e0d0000000000000000c80000"
+            "value": "030e0d0000000000000001f401f4"
         },
         {
             "id": "26",
@@ -59,7 +61,7 @@
         {
             "id": "21",
             "friendlyName": "work_mode",
-            "value": "white"
+            "value": "scene"
         },
         {
             "id": "32",

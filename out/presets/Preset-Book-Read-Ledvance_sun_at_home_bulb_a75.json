@@ -1,5 +1,5 @@
 {
-    "scene": "Sun",
+    "preset": "Book-Read",
     "settings": [
         {
             "id": "22",
@@ -14,7 +14,7 @@
         {
             "id": "23",
             "friendlyName": "temp_value",
-            "value": 0
+            "value": 333
         },
         {
             "id": "34",
